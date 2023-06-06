@@ -141,7 +141,7 @@ const chalk = require('chalk')
 const {sample} = require('lodash')
 
 global.owner = ['94775512050']
-global.no_block = ['94775512050','94719574492']
+global.no_block = ['94775512050','94715346004']
 global.inbox_block = false
 global.sendalive = true
 mess = {
